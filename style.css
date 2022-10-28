@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+.deg{
+  margin-left: 1%;
+  text-align: center;
+}
+.image-deg2{
+  width: 11%;
+
+}
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  overflow-x: hidden;
+}
+.logo-deg{
+  width: 40px;
+}
+
+.media-img-deg{
+  width: 100px;
+}
+.innar{
+  width: 5%;
+  margin-left: 45%;
+}
+.carousel-item{
+  padding: 5% 15%;
+}
+.card-img-deg{
+  height: 190px;
+}
